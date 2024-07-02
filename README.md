@@ -1,1 +1,1 @@
-https://badge.mediaplus.ma/darkblue/odib?UM6P=off
+[https://badge.mediaplus.ma/darkblue/odib?UM6P=off]

@@ -31,6 +31,7 @@ Feel free to reach out through email:
  -**Email**: [omardib759@gmail.com](mailto:omardib759@gmail.com)
  
 Let's connect:
+
  -[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omar-dib-3b8b8a2b3/)
 
 ---

@@ -9,17 +9,17 @@ I’m currently learning Full Stack Development :)
 ## 🛠️ Languages and Tools:
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(240deg);">
-<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg);">
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(300deg);">
-<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(20deg);">
-<img src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(330deg);">
-<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(120deg);">
-<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(90deg);">
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(60deg);">
-<img src="https://simpleicons.org/icons/c.svg" alt="C" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(0deg);">
-<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(30deg);">
-<img src="https://simpleicons.org/icons/git.svg" alt="Git" width="32" height="32" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(210deg);">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="HTML5" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-css3-mobile-app-development-flaticons-flat-flat-icons.png" alt="CSS3" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/php.png" alt="PHP" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/flutter.png" alt="Flutter" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/linux--v1.png" alt="Linux" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/c-programming.png" alt="C" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/64/git.png" alt="Git" width="50" style="border-radius: 50%;">
 </div>
 
 ---

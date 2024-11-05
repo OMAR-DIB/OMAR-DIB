@@ -9,10 +9,10 @@ I’m currently learning Full Stack Development :)
 ## 🛠️ Languages and Tools:
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="HTML5" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-css3-mobile-app-development-flaticons-flat-flat-icons.png" alt="CSS3" width="50" style="border-radius: 50%;">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="border-radius: 50%;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/64/php.png" alt="PHP" width="50" style="border-radius: 50%;">
+   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/flutter.png" alt="Flutter" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/linux--v1.png" alt="Linux" width="50" style="border-radius: 50%;">

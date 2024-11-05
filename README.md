@@ -9,30 +9,30 @@ I’m currently learning Full Stack Development :)
 ## 🛠️ Languages and Tools:
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" style="border-radius: 50%;">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" style="border-radius: 50%;">
+<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="32" height="32">
+<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="32" height="32">
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32" height="32">
+<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="32" height="32">
+<img src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="32" height="32">
+<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="32" height="32">
+<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="32" height="32">
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32" height="32">
+<img src="https://simpleicons.org/icons/c.svg" alt="C" width="32" height="32">
+<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="32" height="32">
+<img src="https://simpleicons.org/icons/git.svg" alt="Git" width="32" height="32">
 </div>
 
 ---
 
 ## 📫 How to Reach Me
 
-Feel free to reach out through email:
+Feel free to reach out through email :
 
- -**Email**: [omardib759@gmail.com](mailto:omardib759@gmail.com)
+ **Email**: [omardib759@gmail.com](mailto:omardib759@gmail.com)
  
-Let's connect:
+Let's connect :
 
- -[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omar-dib-3b8b8a2b3/)
+ [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/omar-dib-3b8b8a2b3/)
 
 ---
 

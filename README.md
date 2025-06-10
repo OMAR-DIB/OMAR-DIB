@@ -12,7 +12,8 @@ A Hobbyist Turned Software Engineer, and a Tech Enthusiast :)
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" width="50" style="border-radius: 50%;">
-   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="50" style="border-radius: 50%;">
+   <img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" width="50" style="border-radius: 50%;">
+<img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/flutter.png" alt="Flutter" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" width="50" style="border-radius: 50%;">
   <img src="https://img.icons8.com/color/64/linux--v1.png" alt="Linux" width="50" style="border-radius: 50%;">
